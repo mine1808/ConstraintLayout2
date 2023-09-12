@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ConstraintLayout2</string>
+    <string name="hi_text">Hi Clarencce,</string>
+    <string name="uang_text">5,600.00</string>
+    <string name="judul_pay">Pay money</string>
+    <string name="isi_pay">To wallet, bank or mobile number</string>
+    <string name="judul_req">Request money</string>
+    <string name="isi_req">Request money from Cowry Loans</string>
+    <string name="judul_paybill">Pay bill</string>
+    <string name="isi_paybill">Zero transactions
+fees when you pay</string>
+    <string name="judul_buy">Buy airtime</string>
+    <string name="isi_buy">Top-up or Send airtime across Countries</string>
+
+</resources>
